@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Chiranjivi Prakash</h1>
 <h3 align="center">A Passionate Full Stack developer from India</h3>
-<img align="right" alt="coding" width="400" src="[https://in.pinterest.com/pin/developer--126663808259167697](https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animations--126663808259167697%2F&docid=2_EEXl1mO124lM&tbnid=Aob19zh3U0GdRM&vet=12ahUKEwiqu6jrwf-NAxXy8DgGHbtsLp8QM3oECGgQAA..i&w=680&h=428&hcb=2&ved=2ahUKEwiqu6jrwf-NAxXy8DgGHbtsLp8QM3oECGgQAA)">
+<img align="right" alt="coding" width="400" src="https://in.pinterest.com/pin/developer--126663808259167697](https://www.google.com/imgres?q=animated%20coding%20gif&imgurl=https%3A%2F%2Fi.pinimg.com%2Foriginals%2F54%2Fe3%2F7d%2F54e37d8074ebcde1d96c77d7b2a7f310.gif&imgrefurl=https%3A%2F%2Fwww.pinterest.com%2Fpin%2Fcoding-animations--126663808259167697%2F&docid=2_EEXl1mO124lM&tbnid=Aob19zh3U0GdRM&vet=12ahUKEwiqu6jrwf-NAxXy8DgGHbtsLp8QM3oECGgQAA..i&w=680&h=428&hcb=2&ved=2ahUKEwiqu6jrwf-NAxXy8DgGHbtsLp8QM3oECGgQAA">
 
 <img align="right" alt="coaing" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
