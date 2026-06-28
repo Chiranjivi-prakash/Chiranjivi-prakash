@@ -2,7 +2,10 @@
 <h3 align="center">A Passionate Full Stack developer from India</h3>
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
 
-<img align="right" alt="coaing" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
+<!-- <img align="right" alt="coaing" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966"> -->
+
+<img align="right" alt="coaing" width="400" src=
+"https://camo.githubusercontent.com/fdfe7c673055c82113933fe7a27ae0b23ec8b6cabe87747b2e96563db7159238/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f667265657a652f6669742f632f38302f35362f302a37513379765349765f7430696f4a2d5a2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=chiranjivi-prakash&label=Profile%20views&color=0e75b6&style=flat" alt="chiranjivi-prakash" /> </p>
 
